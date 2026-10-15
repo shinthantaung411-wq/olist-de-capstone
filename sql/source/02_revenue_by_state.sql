@@ -1,0 +1,1 @@
+--Q1.Revenue (SUM of price) by customer_state for delivered orders. Top 10 states.
